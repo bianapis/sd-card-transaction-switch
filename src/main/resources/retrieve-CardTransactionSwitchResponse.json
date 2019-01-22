@@ -1,0 +1,12 @@
+{
+  "participantAcquirerBankReference" : "PABR8025",
+  "cardTransactionSwitchConfiguration" : "Setting 1",
+  "cardTransactionSwitchReference" : "CTSR9024",
+  "cardTransactionSwitchOperatingSessionReference" : "CTSOR2014",
+  "cardTransactionSwitchOperatingSchedule" : "0 15 15 ? * *",
+  "participantAcquirerBanktransactionRoutingDetails" : "network 1",
+  "participantIssuerBankReference" : "PABR5502",
+  "cardTransactionSwitchStatus" : "active",
+  "networkReference" : "NR30256",
+  "participantIssuerBankTransactionRoutingDetails" : "routing 1"
+}
